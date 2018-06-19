@@ -143,4 +143,12 @@ export default {
 			);
 		},
 	},
+
+	"779e8715f8d1": {
+		"_refs": [
+			"src/App.js:80",
+		],
+		"en": (Comment) => <O><input placeholder="Enter text here"/><Comment>To translate attributes, wrap the entire element in &lt;T&gt;</Comment></O>,
+		"da": (Comment) => <O><input placeholder="Indtast tekst her"/><Comment>For at oversætte attributter, pak da hele elementet ind i &lt;T&gt;</Comment></O>,
+	},
 }

@@ -76,6 +76,9 @@ export default function(props) {
 					<div>translations</div>
 				</T>
 			</Example>
+			<Example>
+				<T><input placeholder="Enter text here"/><Comment>To translate attributes, wrap the entire element in &lt;T&gt;</Comment></T>
+			</Example>
 		</Container>
 	);
 }
