@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import { Container, Form, FormGroup, InputGroup, Label, Input } from 'reactstrap';
 import './App.css';
 import { T, TraksConsumer } from './traks';
